@@ -1,1 +1,2 @@
 file2-line1 from local master 
+file2-line2 from local master 
